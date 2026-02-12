@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "740106858430",
+    "project_id": "bukkydatasub-a1dc5",
+    "storage_bucket": "bukkydatasub-a1dc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740106858430:android:0662517f8279c9141613ef",
+        "android_client_info": {
+          "package_name": "com.kxtdev.bukkydatasup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGQ2N9850fjVBDiq2ECkKX0S--QDRlQk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740106858430:android:99bde760372ac0c91613ef",
+        "android_client_info": {
+          "package_name": "com.kxtdev.bukkydatasup.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGQ2N9850fjVBDiq2ECkKX0S--QDRlQk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

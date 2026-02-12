@@ -1,0 +1,101 @@
+package com.kxtdev.bukkydatasup.ui.design
+
+import com.kxtdev.bukkydatasup.R
+
+object PoshImage {
+    val Branding = R.drawable.bukkydatasup_logo
+    val mtn = R.drawable.img_mtn
+    val glo = R.drawable.img_glo
+    val nineMobile = R.drawable.img_ninemobile
+    val airtel = R.drawable.img_airtel
+    val Dstv = R.drawable.img_dstv
+    val Gotv = R.drawable.img_gotv
+    val Startime = R.drawable.img_startime
+    val AbaElectric = R.drawable.img_aba
+    val AbujaElectric = R.drawable.img_aedc
+    val BeninElectric = R.drawable.img_bedc
+    val EkoElectric = R.drawable.img_eko
+    val IbadanElectric = R.drawable.img_ibadan_electric
+    val IkejaElectric = R.drawable.img_ikeja
+    val JosElectric = R.drawable.img_jos
+    val KadunaElectric = R.drawable.img_kaduna
+    val PhElectric = R.drawable.img_ph_electric
+    val YolaElectric = R.drawable.img_yola_electric
+    val EnuguElectric = R.drawable.img_enugu_electric
+    val KanoElectric = R.drawable.img_kano_electric
+    val Waec = R.drawable.img_waec
+    val Neco = R.drawable.img_neco
+    val Nabteb = R.drawable.img_nabteb
+    val Jamb = R.drawable.img_jamb
+    val WhatsApp = R.drawable.img_whatsapp
+    val Verify = R.drawable.image_verify
+    val BankAccess = R.drawable.img_access_bank
+    val BankCoronation = R.drawable.img_coronation_bank
+    val BankDiamond = R.drawable.img_diamond_bank
+    val BankEcobank = R.drawable.img_ecobank
+    val BankFidelity = R.drawable.img_fidelity_bank
+    val BankFirst = R.drawable.img_first_bank
+    val BankFCMB = R.drawable.img_fcmb
+    val BankGT = R.drawable.img_gtbank
+    val BankHeritage = R.drawable.img_heritage_bank
+    val BankJaiz = R.drawable.img_jaiz_bank
+    val BankKeystone = R.drawable.img_keystone_bank
+    val BankPolaris = R.drawable.img_polaris_bank
+    val BankProvidus = R.drawable.img_providus_bank
+    val BankStanbic = R.drawable.img_stanbic_bank
+    val BankStandardChartered = R.drawable.img_standard_chartered_bank
+    val BankSterling = R.drawable.img_sterling_bank
+    val BankSunTrust = R.drawable.img_suntrust_bank
+    val BankUnion = R.drawable.img_union_bank
+    val BankUba = R.drawable.img_uba_bank
+    val BankUnity = R.drawable.img_unity_bank
+    val BankWema = R.drawable.image_wema
+    val BankZenith = R.drawable.img_zenith
+    val Bank9PSB = R.drawable.img_9psb
+    val BankVFD = R.drawable.img_vfd_bank
+    val BankMoniePoint = R.drawable.img_moniepoint
+    val Palmpay = R.drawable.img_palmpay
+}
+
+object PoshIcon {
+    val Add = R.drawable.icon_add
+    val ArrowBack = R.drawable.icon_arrow_back
+    val ArrowDown = R.drawable.icon_arrow_down
+    val ArrowForward = R.drawable.icon_arrow_forward
+    val ArrowLeft = R.drawable.icon_double_arrow_left
+    val ArrowRight = R.drawable.icon_double_arrow_right
+    val ArrowUp = R.drawable.icon_arrow_up
+    val Avatar = R.drawable.icon_avatar_portrait
+    val AvatarWithBorder = R.drawable.icon_user_avatar
+    val Banner = R.drawable.bukkydatasup_logo
+    val Bell = R.drawable.icon_bell
+    val Close = R.drawable.icon_close
+    val Copy = R.drawable.icon_copy
+    val Clear = R.drawable.icon_clear
+    val DataEnvironment = R.drawable.illustration_data_environment
+    val EmptyContent = R.drawable.illustration_empty_content
+    val Flash = R.drawable.icon_flash
+    val Fingerprint = R.drawable.icon_fingerprint
+    val Home = R.drawable.icon_home
+    val Internet = R.drawable.icon_internet
+    val Logo = R.drawable.bukkydatasup_logo
+    val FullLogo = R.drawable.bukkydatasup_logo
+    val Logout = R.drawable.icon_logout
+    val Message = R.drawable.icon_message
+    val Network = R.drawable.icon_network
+    val PickContact = R.drawable.icon_pick_contact
+    val Phone = R.drawable.icon_phone
+    val Printer = R.drawable.icon_printer
+    val Refer = R.drawable.icon_carbon_friendship
+    val Services = R.drawable.icon_services
+    val Setting = R.drawable.icon_settings
+    val Student = R.drawable.icon_student
+    val Swap = R.drawable.icon_swap
+    val Tick = R.drawable.icon_tick
+    val Time = R.drawable.icon_time
+    val Transfer = R.drawable.icon_transfer
+    val Tv = R.drawable.icon_tv
+    val Verified = R.drawable.icon_verified
+    val Warning = R.drawable.icon_warning
+    val WhatsApp = R.drawable.icon_whatsapp
+}
