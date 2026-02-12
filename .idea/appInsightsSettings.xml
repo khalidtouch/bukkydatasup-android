@@ -22,10 +22,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.kxtdev.bukkydatasup.debug" />
+                  <option name="mobileSdkAppId" value="1:740106858430:android:99bde760372ac0c91613ef" />
+                  <option name="projectId" value="bukkydatasub-a1dc5" />
+                  <option name="projectNumber" value="740106858430" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
