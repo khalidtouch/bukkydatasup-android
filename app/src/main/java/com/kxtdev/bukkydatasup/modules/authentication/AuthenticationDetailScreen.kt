@@ -104,7 +104,7 @@ fun AuthenticationDetailScreen(
     val contentColor = MaterialTheme.colorScheme.onSurface
 
     val headerTextStyle = MaterialTheme.typography.titleLarge.copy(
-        color = MaterialTheme.colorScheme.onPrimary,
+        color = MaterialTheme.colorScheme.secondary,
         fontWeight = FontWeight.Bold,
     )
 

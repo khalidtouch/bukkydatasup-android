@@ -162,11 +162,6 @@ fun AuthenticationScreen(
                     horizontalAlignment = Alignment.CenterHorizontally
                 ) {
                     Spacer(Modifier.height(72.dp))
-                    Image(
-                        painterResource(id = PoshIcon.Logo),
-                        contentDescription = null,
-                        modifier = Modifier.size(72.dp),
-                    )
                     Spacer(Modifier.weight(1f))
                     Image(
                         painterResource(id = PoshIcon.Banner),
