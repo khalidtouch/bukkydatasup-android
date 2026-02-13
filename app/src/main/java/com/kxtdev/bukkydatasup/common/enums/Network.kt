@@ -8,8 +8,8 @@ import com.kxtdev.bukkydatasup.ui.design.PoshImage
 enum class Network(val id: Int, val title: String, val capitalizedName: String, val icon: Int) {
     MTN(1, "MTN", "MTN", PoshImage.mtn),
     GLO(2, "GLO", "GLO", PoshImage.glo),
-    NINE_MOBILE(4, "9Mobile", "9MOBILE", PoshImage.nineMobile),
-    AIRTEL(3, "Airtel", "AIRTEL", PoshImage.airtel);
+    NINE_MOBILE(3, "9Mobile", "9MOBILE", PoshImage.nineMobile),
+    AIRTEL(4, "Airtel", "AIRTEL", PoshImage.airtel);
 
     companion object {
         fun asPair(product: Product, disabledNetworks: List<DisabledNetwork>): List<Pair<String, Int>> {
