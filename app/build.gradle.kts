@@ -22,10 +22,10 @@ android {
         applicationId = "com.kxtdev.bukkydatasup"
         minSdk = 24
         targetSdk = 36
-        versionCode = 2
+        versionCode = 3
 
         val versionMajor = "1"
-        val versionMinor = "1"
+        val versionMinor = "2"
         val versionPatch = "0"
 
         versionName = "$versionMajor.$versionMinor.$versionPatch"

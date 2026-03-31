@@ -7,7 +7,7 @@ enum class DataPlanType(val title: String, val label: String, val order: Int) {
     COUPON("DATA COUPONS", "COUPON", 8),
     SME2("SME2", "SME2", 2),
     DATA_SHARE("DATA SHARE", "DATA SHARE", 7),
-    AWOOF("AWOOF", "AWOOF", 6),
+    AWOOF("MTN AWOOF", "AWOOF", 6),
     CG2("CG2", "CG2", 4);
 
     companion object {
